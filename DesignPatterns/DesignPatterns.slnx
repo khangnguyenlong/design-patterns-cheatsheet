@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/1. Creational/">
+    <Project Path="DesignPatterns.Builder/DesignPatterns.Builder.csproj" Id="6a64ed7f-1680-4574-b5db-6078e084768b" />
     <Project Path="DesignPatterns.Prototype/DesignPatterns.Prototype.csproj" />
   </Folder>
   <Folder Name="/2. Structural/" />
