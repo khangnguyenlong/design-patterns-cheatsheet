@@ -4,7 +4,7 @@
 
 | No. | Design Pattern | Category | Problem | Idea | Description | Link |
 |---:|---|---|---|---|---|---|
-| 1 | **Prototype** | Creational | You need an independent copy of a complex object with only a few changes. | Clone an existing configured object instead of rebuilding it. | Creates new objects by copying an existing object. | [View](https://github.com/khangnguyenlong/design-patterns-cheatsheet/edit/main/README.md#creational) |
+| 1 | **Prototype** | Creational | You need an independent copy of a complex object with only a few changes. | Clone an existing configured object instead of rebuilding it. | Creates new objects by copying an existing object. | [View](https://github.com/khangnguyenlong/design-patterns-cheatsheet/tree/main#prototype) |
 | 2 | **Factory Method** | Creational |  |  |  | |
 | 3 | **Abstract Factory** | Creational |  |  |  | |
 | 4 | **Builder** | Creational |  |  |  | |
