@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/1. Creational/">
+    <Project Path="DesignPatterns.Prototype/DesignPatterns.Prototype.csproj" />
+  </Folder>
+  <Folder Name="/2. Structural/" />
+  <Folder Name="/3. Behavior/" />
+</Solution>
