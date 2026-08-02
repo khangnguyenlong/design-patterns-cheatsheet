@@ -4,6 +4,7 @@ namespace DesignPatterns.FactoryMethod.Installer
 {
     internal abstract class WebsiteTemplateInstaller : IWebsiteTemplateInstaller
     {
+        // Workflow for installing a website template
         public Website Install(WebsiteInstallationRequest request)
         {
             // 1. Create website

@@ -1,5 +1,5 @@
 ﻿using DesignPatterns.Builder.Builders;
-using DesignPatterns.Prototype.Models;
+using DesignPatterns.Builder.Models;
 
 Console.WriteLine("Hello, World!");
 

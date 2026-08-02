@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Prototype.Models
+﻿namespace DesignPatterns.Builder.Models
 {
     internal class HtmlBody
     {

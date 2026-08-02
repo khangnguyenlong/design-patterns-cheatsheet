@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Prototype.Models;
+﻿using DesignPatterns.Builder.Models;
+using DesignPatterns.Prototype.Models;
 
 namespace DesignPatterns.Builder.Builders
 {
